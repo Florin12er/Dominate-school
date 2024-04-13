@@ -10,8 +10,8 @@
 
 ** Goal Definition
 
-+ *ain Goal* : Ace the upcoming exams.
-+ *Define "Acing"* : Get a good grade so I am guaranteed to get the 12th class
++ *Main Goal* : Ace the upcoming exams.
++ =Define "Acing"= : Get a good grade so I am guaranteed to get the 12th class
 
 ** Subject Breakdown
 
