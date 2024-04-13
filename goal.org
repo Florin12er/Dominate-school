@@ -16,8 +16,7 @@
 ** Subject Breakdown
 
 *** *English*:
-  + *Topics to Cover*: Writing, Reading
-  + *Priority Level*: 😊
+  + *Topics to Cover*: Writing, Reading + *Priority Level*: 😊
   + *Current Proficiency*: 9
   + *Target Grade*: 2 or even 1
 *** *German* :
@@ -79,4 +78,7 @@
  |                          |                                                        |                 |                           |                    |                  |                  |       |
 
 ** Final Review
- + da
+ + test
+   
+
+*** Markmap : [[file:///run/user/1000/doc/4e083540/markmap.html][markmap]]
