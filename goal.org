@@ -3,80 +3,80 @@
 
 ** Personal Information
 
-+ **Name**: Sebastian Florin
-+ **Academic Year/Grade**: 11 / Grade: 3
-+ **Exam(s) Name**: Math, Informatics, english, German
-+ **Exam Date(s)**: don't know yet
++ *Name* : Sebastian Florin
++ *Academic Year/Grade* : 11 / Grade: 3
++ *Exam(s) Name* : Math, Informatics, english, German
++ *Exam Date(s)* : don't know yet
 
 ** Goal Definition
 
-+ **Main Goal**: Ace the upcoming exams.
-+ Define "Acing": Get a good grade so I am guaranteed to get the 12 class
++ **ain Goal* : Ace the upcoming exams.
++ *Define "Acing"* : Get a good grade so I am guaranteed to get the 12 class
 
 ** Subject Breakdown
 
 *** *English*:
-  + **Topics to Cover**: Writing, Reading
-  + **Priority Level**: 😊
-  + **Current Proficiency**: 9
-  + **Target Grade**: 2 or even 1
+  + *Topics to Cover*: Writing, Reading
+  + *Priority Level*: 😊
+  + *Current Proficiency*: 9
+  + *Target Grade*: 2 or even 1
 *** *German* :
-  + **Topics to Cover**: Writing, Reading , formulating
-  + **Priority Level**: ⚠
-  + **Current Proficiency**: 6
-  + **Target Grade**: 3 , 4 but preferably 2
+  + *Topics to Cover*: Writing, Reading , formulating
+  + *Priority Level* 😫
+  + *Current Proficiency*: 6
+  + *Target Grade*: 3 , 4 but preferably 2
 
 ** Career Vision Statement
 
-+ **Description:** I want to become a amazing good programmer, none the people in my class
++ *Description:* I want to become a amazing good programmer, none the people in my class
   want to go to university and warn not to go and will be difficult I want to prove them wrong.
 
 ** Skills and Qualifications
 
-+ **Current Skills:** :Programming , Linux system management , writting , good communication
-+ **Skills to Develop:** Programming , communication
-+ **Qualifications Needed:** College Degree
++ *Current Skills:* :Programming , Linux system management , writting , good communication
++ *Skills to Develop:* Programming , communication
++ *Qualifications Needed:* College Degree
 
 ** Experience
 
-+ **Current Experience:** I done tons of coding project , commited an intership at a compute repair company
-+ **Experience to Gain:** Computer Repair, Programming
++ *Current Experience:* I done tons of coding project , commited an intership at a compute repair company
++ *Experience to Gain:* Computer Repair, Programming
 
 ** Networking
 
-+ **Current Contacts:** all my coworkers from my intership have over 10 years of experience, and my Chef has over 20 years of experience in sales and computers
-+ **Contacts to Make:** Potetial experienced Chefs and employs
++ *Current Contacts:* all my coworkers from my intership have over 10 years of experience, and my Chef has over 20 years of experience in sales and computers
++ *Contacts to Make:* Potetial experienced Chefs and employs
 
 ** Action Plan
 
-+ **Short-Term Goals (1-2 years):** read books, programm everyday, post 4 videos on youtube a week
-+ **Long-Term Goals (3-5 years):** get good grades , get a job in Programming, make a company about Programming , Make a youtube channel
-+ **Steps to Achieve Goals:** Mostly the short the term gooals
++ *Short-Term Goals (1-2 years):* read books, programm everyday, post 4 videos on youtube a week
++ *Long-Term Goals (3-5 years):* get good grades , get a job in Programming, make a company about Programming , Make a youtube channel
++ *Steps to Achieve Goals:* Mostly the short the term gooals
 
 ** Personal Development
 
-+ **Soft Skills to Develop:**: Team work and communication
-+ **Hobbies/Interests to Explore:**: Programming , bodybuilding
++ *Soft Skills to Develop:* : Team work and communication
++ *Hobbies/Interests to Explore:* : Programming , bodybuilding
 
 ** Reflection and Adjustment
 
-+ **Review Periods:** Decide on regular intervals (e.g., every six months) to review your goals and progress.
-+ **Adaptation Strategy:** Outline how you will adjust your plans if circumstances change or if you find new interests.
++ *Review Periods:* Decide on regular intervals (e.g., every six months) to review your goals and progress.
++ *Adaptation Strategy:* Outline how you will adjust your plans if circumstances change or if you find new interests.
 + *Why It's Important:* : Flexibility and the ability to adapt to changes are crucial for long-term career success.
   Regular reflection ensures that your goals remain relevant and aligned with your evolving aspirations.
 
 
 
 ** Weekly Progress Log
- | Week Ending              | Tasks Completed                    | Grades Received | Grades Satisfaction(1-10) | Milestones Reached | Challenges Faced | Adjustments Made | Notes |
- |--------------------------+------------------------------------+-----------------+---------------------------+--------------------+------------------+------------------+-------|
- |                          | made an youtube video , Programmed |                 |                           |                    |                  |                  |       |
- | Sat Apr 13 20:21:33 2024 | and took some notes                |                 |                           |                    |                  |                  |       |
- |                          |                                    |                 |                           |                    |                  |                  |       |
- |--------------------------+------------------------------------+-----------------+---------------------------+--------------------+------------------+------------------+-------|
- |                          |                                    |                 |                           |                    |                  |                  |       |
- |                          |                                    |                 |                           |                    |                  |                  |       |
- |                          |                                    |                 |                           |                    |                  |                  |       |
+ | Week Ending              | Tasks Completed                                        | Grades Received | Grades Satisfaction(1-10) | Milestones Reached | Challenges Faced | Adjustments Made | Notes |
+ |--------------------------+--------------------------------------------------------+-----------------+---------------------------+--------------------+------------------+------------------+-------|
+ | Sat Apr 13 20:21:33 2024 | made an youtube video , Programmed and took some notes |                 |                           |                    |                  |                  |       |
+ |+--------------------------------------------------------+-----------------+---------------------------+--------------------+------------------+------------------+-------                          |
+ |                          |                                                        |                 |                           |                    |                  |                  |       |
+ |                          |                                                        |                 |                           |                    |                  |                  |       |
+ |                          |                                                        |                 |                           |                    |                  |                  |       |
+ |                          |                                                        |                 |                           |                    |                  |                  |       |
+ |                          |                                                        |                 |                           |                    |                  |                  |       |
 
 ** Final Review
  + da
