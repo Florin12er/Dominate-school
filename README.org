@@ -1,2 +1,2 @@
-* These are my notes the course Dominate School and ace Grades in the Catious movement
+* These are my notes the course Dominate School and ace Grades in the Catious movement.
 ** It also cotains markmaps you can download them by a git clone and view them in the browser
